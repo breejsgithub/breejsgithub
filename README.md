@@ -2,13 +2,12 @@
 ![Black Technology LinkedIn Banner (1)](https://github.com/mahsan15/mahsan15/assets/82739557/602899f3-4d64-4405-aa9b-3ae7eec4286a)
 
 
-Hello! I'm Muhammad Ahsan, a dedicated and enthusiastic web developer with a passion for crafting exceptional digital experiences. My expertise lies in creating robust and user-friendly web applications using a range of cutting-edge technologies. With a background in computer programming and analysis, I'm on a journey to secure a full-time role in the realm of web/software development. 
+Hello! I'm Breej Patel, a dedicated and enthusiastic web developer with a passion for crafting exceptional digital experiences. My expertise lies in creating robust and user-friendly web applications using a range of cutting-edge technologies. With a background in computer programming and analysis, I'm on a journey to secure a full-time role in the realm of web/software development. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/m-ahsan01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-green)](https://ahsan-webcv.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20Repos-orange)](https://github.com/mahsan15)
-[![Contact](https://img.shields.io/badge/Contact-Reach%20Out%20to%20Me-red)](tel:+16478363077)
-[![Email](https://img.shields.io/badge/Email-Send%20Me%20an%20Email-yellow)](mailto:ahsant2709@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/breej-patel-153640254/)
+[![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20Repos-orange)](https://github.com/breejsgithub)
+[![Contact](https://img.shields.io/badge/Contact-Reach%20Out%20to%20Me-red)](tel:+16475646971)
+[![Email](https://img.shields.io/badge/Email-Send%20Me%20an%20Email-yellow)](mailto:breejptlofficial@gmail.com)
 
 
 ## Summary
