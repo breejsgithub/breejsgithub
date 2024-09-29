@@ -1,18 +1,49 @@
-<h1 align="center">Hi 👋, I'm Breej Patel</h1>
-<h3 align="center">A passionate Electronics Engineer</h3>
 
-- 👯 I’m looking to collaborate on **New projects**
+![Black Technology LinkedIn Banner (1)](https://github.com/mahsan15/mahsan15/assets/82739557/602899f3-4d64-4405-aa9b-3ae7eec4286a)
 
-- 📫 How to reach me **breejptlofficial@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/breej-patel-153640254/](https://www.linkedin.com/in/breej-patel-153640254/)
+Hello! I'm Muhammad Ahsan, a dedicated and enthusiastic web developer with a passion for crafting exceptional digital experiences. My expertise lies in creating robust and user-friendly web applications using a range of cutting-edge technologies. With a background in computer programming and analysis, I'm on a journey to secure a full-time role in the realm of web/software development. 
 
-- ⚡ Fun fact **I can turn coffee into circuits! My soldering iron has officially become my favorite tool for both coding and brewing creativity.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/m-ahsan01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-green)](https://ahsan-webcv.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20Repos-orange)](https://github.com/mahsan15)
+[![Contact](https://img.shields.io/badge/Contact-Reach%20Out%20to%20Me-red)](tel:+16478363077)
+[![Email](https://img.shields.io/badge/Email-Send%20Me%20an%20Email-yellow)](mailto:ahsant2709@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/breej-patel-153640254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/breej-patel-153640254/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## Summary
+
+I hold an advanced diploma in Computer Programming and Analysis from Seneca College, Toronto. My mission is to contribute my skills and creativity to a dynamic team, fostering innovation and driving impactful solutions. Proficient in a variety of technologies, including Angular, React, .NET, Node.js, Linux, and Bootstrap, I bring a well-rounded skillset to the table. I thrive in collaborative environments and am excited to join a high-performing team to make a real difference.
+
+
+## Projects
+
+-Certainly! Here's your project information presented in a table format:
+
+| Project Name          | Description                                                                                             | Technologies Used                                                        | Links                                           |
+|-----------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------|
+| Bronx-Burgers         | Developed a high-performance burger ordering app with React and Node.js. Implemented authentication, cart management, and payments. | React, Node.js, MongoDB, HTML                                           | [Try it](bronxburger-production.up.railway.app/) |
+| Music Biz             | Created a role-based .NET music app with Front-End and Back-End components. Managed artist details, tracks, and albums by genre.      | ASP.NET, MySQL                                                           | [Try it](muhammadahsan01-001-site1.dtempurl.com/) |
+| Prime Calendar        | Led a team to develop an online studying aid app using Angular, Node.js, and various technologies. Improved productivity by over 30%.   | Angular, Node.js, MongoDB, TypeScript, Webpack, Babel, SASS/LESS, REST API | [Try it](fascinating-meringue-45e4dd.netlify.app/) |
+
+Feel free to include this table in your GitHub Readme page for a neat and organized display of your projects!
+
+## Skills
+
+### Technical Skills
+
+- Languages: Java, JavaScript, Python, TypeScript, C#
+- Frameworks: React.js, Angular, .NET
+- Web Technologies: HTML5, CSS3, Bootstrap
+- Development Tools: Git, ServiceNow, Redux, Jest, Jasmine, Fortify, REST API
+- Others: Node.js, Linux, Three.js
+
+### Soft Skills
+
+- Strong Communication
+- Quick Learner
+- Adaptability
+- Problem-solving
+- Team Collaboration
+
+Feel free to reach out to me through the provided contact details. Let's collaborate and create something amazing together!
